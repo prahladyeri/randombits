@@ -5,7 +5,7 @@ readme = """```bash
 This is an auto-generated github repository that just 
 pushes some random bits to keep your github activity going.
 Useful when you're on a vacation or just temporarily 
-lost inspiration to code!
+lost inspiration to code.
 
 %code1%
 %code2%
