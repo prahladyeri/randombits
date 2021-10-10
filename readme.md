@@ -5,14 +5,14 @@ pushes some random bits to keep your github activity going.
 Useful when you're on a vacation or just temporarily 
 lost inspiration to code.
 
-953abb70-f758-4a20-b71c-59ea47884aa4
-f91ff4c2-bc57-497a-b648-a2d1404c67bb
-57121203-c8ca-4931-a5c4-3cda714f6139
+8c3ad087-f6c3-42fc-bd11-ce2ddc629358
+ab7872a2-4c49-4a74-9a2c-c3b496bc1fd2
+aeeddaa1-c233-4b6c-b99d-9ea824ccd0ac
 
 Running:
 
 python build.py
 git add .
 git commit -m "build: random bits"
-git push
+git push origin main
 ```

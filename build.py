@@ -16,7 +16,7 @@ Running:
 python build.py
 git add .
 git commit -m "build: random bits"
-git push
+git push origin main
 ```
 """
 def main():
